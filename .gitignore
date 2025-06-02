@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+# 仮想環境
+.venv/
+
+# Python キャッシュ
+__pycache__/
+*.py[cod]
+
+# その他
+*.log
+*.sqlite3
+.DS_Store
